@@ -1,0 +1,1207 @@
+fileFormatVersion: 2
+guid: 4152d773af9980c4b8526664d998de25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9133292639087066532
+    second: Crappy House Spritesheet_0
+  - first:
+      213: 1327739554352439192
+    second: Crappy House Spritesheet_1
+  - first:
+      213: -5893468647949147116
+    second: Crappy House Spritesheet_2
+  - first:
+      213: 5943376732540538790
+    second: Crappy House Spritesheet_3
+  - first:
+      213: -6822697072001262232
+    second: Crappy House Spritesheet_4
+  - first:
+      213: -8674825571540404086
+    second: Crappy House Spritesheet_5
+  - first:
+      213: -6554245869718505142
+    second: Crappy House Spritesheet_6
+  - first:
+      213: -6009650273959675667
+    second: Crappy House Spritesheet_7
+  - first:
+      213: 1031657639654032194
+    second: Crappy House Spritesheet_8
+  - first:
+      213: -3312352693480060231
+    second: Crappy House Spritesheet_9
+  - first:
+      213: -8531028198823656339
+    second: Crappy House Spritesheet_10
+  - first:
+      213: -1046062051628699562
+    second: Crappy House Spritesheet_11
+  - first:
+      213: -3043993774866734462
+    second: Crappy House Spritesheet_12
+  - first:
+      213: -4819147289970611536
+    second: Crappy House Spritesheet_13
+  - first:
+      213: -4797742938707508921
+    second: Crappy House Spritesheet_14
+  - first:
+      213: -343361304630878672
+    second: Crappy House Spritesheet_15
+  - first:
+      213: -8367665971116154911
+    second: Crappy House Spritesheet_16
+  - first:
+      213: 3242696687633305716
+    second: Crappy House Spritesheet_17
+  - first:
+      213: -6388499308400472825
+    second: Crappy House Spritesheet_18
+  - first:
+      213: 4444704209877552746
+    second: Crappy House Spritesheet_19
+  - first:
+      213: -2387309127325604932
+    second: Crappy House Spritesheet_20
+  - first:
+      213: 6182832916662051597
+    second: Crappy House Spritesheet_21
+  - first:
+      213: -935464989348103823
+    second: Crappy House Spritesheet_22
+  - first:
+      213: -24324465548274881
+    second: Crappy House Spritesheet_23
+  - first:
+      213: 860594796920329673
+    second: Crappy House Spritesheet_24
+  - first:
+      213: 4426566943917217872
+    second: Crappy House Spritesheet_25
+  - first:
+      213: -4275768325942523994
+    second: Crappy House Spritesheet_26
+  - first:
+      213: -6563204451810145047
+    second: Crappy House Spritesheet_27
+  - first:
+      213: -5337604420938135409
+    second: Crappy House Spritesheet_28
+  - first:
+      213: -958076404406162177
+    second: Crappy House Spritesheet_29
+  - first:
+      213: -8899528445586120525
+    second: Crappy House Spritesheet_30
+  - first:
+      213: -728457461032482633
+    second: Crappy House Spritesheet_31
+  - first:
+      213: 2931257421309223061
+    second: Crappy House Spritesheet_32
+  - first:
+      213: -7199083280945950912
+    second: Crappy House Spritesheet_33
+  - first:
+      213: 933973441400392347
+    second: Crappy House Spritesheet_34
+  - first:
+      213: 5600650272465637363
+    second: Crappy House Spritesheet_35
+  - first:
+      213: -5285790426665475078
+    second: Crappy House Spritesheet_36
+  - first:
+      213: -2687135525727888509
+    second: Crappy House Spritesheet_37
+  - first:
+      213: -4765013058330482750
+    second: Crappy House Spritesheet_38
+  - first:
+      213: -2455978594224744016
+    second: Crappy House Spritesheet_39
+  - first:
+      213: -4473338140903322130
+    second: Crappy House Spritesheet_40
+  - first:
+      213: -8930728379306922859
+    second: Crappy House Spritesheet_41
+  - first:
+      213: -4377696998531306286
+    second: Crappy House Spritesheet_42
+  - first:
+      213: 8147497999625709749
+    second: Crappy House Spritesheet_43
+  - first:
+      213: 3833656737006691218
+    second: Crappy House Spritesheet_44
+  - first:
+      213: -2849206317713317915
+    second: Crappy House Spritesheet_45
+  - first:
+      213: -3499976008587909729
+    second: Crappy House Spritesheet_46
+  - first:
+      213: -1600636332239064397
+    second: Crappy House Spritesheet_47
+  - first:
+      213: 4154386740820468718
+    second: Crappy House Spritesheet_48
+  - first:
+      213: -9085447287277171381
+    second: Crappy House Spritesheet_49
+  - first:
+      213: 5035038924099746835
+    second: Crappy House Spritesheet_50
+  - first:
+      213: 1911136812497898918
+    second: Crappy House Spritesheet_51
+  - first:
+      213: -1559084870549017601
+    second: Crappy House Spritesheet_52
+  - first:
+      213: -6144049166111651451
+    second: Crappy House Spritesheet_53
+  - first:
+      213: 6415106412662669093
+    second: Crappy House Spritesheet_54
+  - first:
+      213: 2851271060064553183
+    second: Crappy House Spritesheet_55
+  - first:
+      213: -8616623946722421353
+    second: Crappy House Spritesheet_56
+  - first:
+      213: -1745804374212921070
+    second: Crappy House Spritesheet_57
+  - first:
+      213: -7026410443025767051
+    second: Crappy House Spritesheet_58
+  - first:
+      213: 3639535777499776801
+    second: Crappy House Spritesheet_59
+  - first:
+      213: -8194683483207461239
+    second: Crappy House Spritesheet_60
+  - first:
+      213: 7511429184642296339
+    second: Crappy House Spritesheet_61
+  - first:
+      213: 8593034040353846655
+    second: Crappy House Spritesheet_62
+  - first:
+      213: -9088936072186476469
+    second: Crappy House Spritesheet_63
+  - first:
+      213: 2958060474630639583
+    second: Crappy House Spritesheet_64
+  - first:
+      213: 1602204450251625258
+    second: Crappy House Spritesheet_65
+  - first:
+      213: 8756308303125519490
+    second: Crappy House Spritesheet_66
+  - first:
+      213: -1383836990188061633
+    second: Crappy House Spritesheet_67
+  - first:
+      213: -2634452316006846623
+    second: Crappy House Spritesheet_68
+  - first:
+      213: 6359415796737212746
+    second: Crappy House Spritesheet_69
+  - first:
+      213: 4591938887608691862
+    second: Crappy House Spritesheet_70
+  - first:
+      213: -4434755701014863963
+    second: Crappy House Spritesheet_71
+  - first:
+      213: 7482012768168823267
+    second: Crappy House Spritesheet_72
+  - first:
+      213: -1045455308238142721
+    second: Crappy House Spritesheet_73
+  - first:
+      213: -6550670019418438702
+    second: Crappy House Spritesheet_74
+  - first:
+      213: 3617679047825753464
+    second: Crappy House Spritesheet_75
+  - first:
+      213: 5356660376275201766
+    second: Crappy House Spritesheet_76
+  - first:
+      213: 356019334484603262
+    second: Crappy House Spritesheet_77
+  - first:
+      213: 8760805091175621998
+    second: Crappy House Spritesheet_78
+  - first:
+      213: 3273529495856429865
+    second: Crappy House Spritesheet_79
+  - first:
+      213: 7900001959887616478
+    second: Crappy House Spritesheet_80
+  - first:
+      213: 7737058425356236104
+    second: Crappy House Spritesheet_81
+  - first:
+      213: -5935675089310832820
+    second: Crappy House Spritesheet_82
+  - first:
+      213: 883598450235197055
+    second: Crappy House Spritesheet_83
+  - first:
+      213: -5356989999720613164
+    second: Crappy House Spritesheet_84
+  - first:
+      213: 4349673218658238048
+    second: Crappy House Spritesheet_85
+  - first:
+      213: 6976006995660881327
+    second: Crappy House Spritesheet_86
+  - first:
+      213: 7442264846869271788
+    second: Crappy House Spritesheet_87
+  - first:
+      213: -2527995832798131314
+    second: Crappy House Spritesheet_88
+  - first:
+      213: -5979718166466321932
+    second: Crappy House Spritesheet_89
+  - first:
+      213: 7310006936335883831
+    second: Crappy House Spritesheet_90
+  - first:
+      213: 5807033521638074188
+    second: Crappy House Spritesheet_91
+  - first:
+      213: -3384143787491880561
+    second: Crappy House Spritesheet_92
+  - first:
+      213: -2287622050559810834
+    second: Crappy House Spritesheet_93
+  - first:
+      213: 1883280362009564018
+    second: Crappy House Spritesheet_94
+  - first:
+      213: -4575777369991941160
+    second: Crappy House Spritesheet_95
+  - first:
+      213: 4647834590121630368
+    second: Crappy House Spritesheet_96
+  - first:
+      213: -8615982996766756460
+    second: Crappy House Spritesheet_97
+  - first:
+      213: -3125931933531829398
+    second: Crappy House Spritesheet_98
+  - first:
+      213: 6830113093864934847
+    second: Crappy House Spritesheet_99
+  - first:
+      213: 4776220928803160013
+    second: Crappy House Spritesheet_100
+  - first:
+      213: -5694934813360569714
+    second: Crappy House Spritesheet_101
+  - first:
+      213: 1007829148693538183
+    second: Crappy House Spritesheet_102
+  - first:
+      213: 1991903552522992848
+    second: Crappy House Spritesheet_103
+  - first:
+      213: -3829075178182843940
+    second: Crappy House Spritesheet_104
+  - first:
+      213: 6451536759948198466
+    second: Crappy House Spritesheet_105
+  - first:
+      213: 707464579987023860
+    second: Crappy House Spritesheet_106
+  - first:
+      213: -2026071905004931229
+    second: Crappy House Spritesheet_107
+  - first:
+      213: 1655741649721483666
+    second: Crappy House Spritesheet_108
+  - first:
+      213: 4244238312713471376
+    second: Crappy House Spritesheet_109
+  - first:
+      213: 7153567755884634981
+    second: Crappy House Spritesheet_110
+  - first:
+      213: -6391621929700649217
+    second: Crappy House Spritesheet_111
+  - first:
+      213: 1873167839828091449
+    second: Crappy House Spritesheet_112
+  - first:
+      213: -1177453282187948707
+    second: Crappy House Spritesheet_113
+  - first:
+      213: -4667777592117379377
+    second: Crappy House Spritesheet_114
+  - first:
+      213: 681008915192209838
+    second: Crappy House Spritesheet_115
+  - first:
+      213: 651685761225179934
+    second: Crappy House Spritesheet_116
+  - first:
+      213: 8173115194553461311
+    second: Crappy House Spritesheet_117
+  - first:
+      213: 2787692786972530900
+    second: Crappy House Spritesheet_118
+  - first:
+      213: -8632794818293914058
+    second: Crappy House Spritesheet_119
+  - first:
+      213: -950134612459079910
+    second: Crappy House Spritesheet_120
+  - first:
+      213: 8407853980013872694
+    second: Crappy House Spritesheet_121
+  - first:
+      213: -713287757309069913
+    second: Crappy House Spritesheet_122
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d1ead27e8499e4eb802f2f9aa39bb6
+      internalID: 9133292639087066532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb2707130bdb2041a32005b10c51873
+      internalID: 1327739554352439192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c1b9fc736905b49b7bd6744e6f3d4e
+      internalID: -5893468647949147116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3617c5ce2f2cb4d84169230a2300cf
+      internalID: 5943376732540538790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd26f7f5247dc034984698702588fc0a
+      internalID: -6822697072001262232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4da519625a1d7f4c87844af0e906428
+      internalID: -8674825571540404086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a558eb1fde6591c43bfbdb0a763abefb
+      internalID: -6554245869718505142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccc477178c83e24fa233fd0c195abe1
+      internalID: -6009650273959675667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ecbc48d122a2458e6ac781a362e17
+      internalID: 1031657639654032194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54575f2487fe7442bdc3022d95032b6
+      internalID: -3312352693480060231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc6101dbc005024381b1da64a5d6513
+      internalID: -8531028198823656339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46e540bac79c2847b59eac04faa3345
+      internalID: -1046062051628699562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0f70a97574f62488b89b9c03d972d4
+      internalID: -3043993774866734462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2eb831eaaa96e479bbb513873f16c2
+      internalID: -4819147289970611536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3082064ceff61de41a2dd0aadbc171d3
+      internalID: -4797742938707508921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180d4ec293a9ca7459d5f0b0a870d90d
+      internalID: -343361304630878672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015205c52cef6d649ac26156776bf4f7
+      internalID: -8367665971116154911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb8ceeae1b05be4890f02ba5291e57d
+      internalID: 3242696687633305716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcef51e6c06e804aa2f90bcad4701b1
+      internalID: -6388499308400472825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbd5673616cfb04bbb88927023dc1d3
+      internalID: 4444704209877552746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2de0bdc9eca9c4585fefd1366a1336
+      internalID: -2387309127325604932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a768397e8ea475f429d7bc844a922314
+      internalID: 6182832916662051597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0760ffe1c06de041a53531da443af24
+      internalID: -935464989348103823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3cb583139f3c34c9114892263b23c2
+      internalID: -24324465548274881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b0426b7ffae3d42a3e599da247757f
+      internalID: 860594796920329673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef091966284ef149b4920e25ec11cac
+      internalID: 4426566943917217872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708f1f96ca8cd314cac9b4dedf1d1b5a
+      internalID: -4275768325942523994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f040288141d1f15479109e396684f639
+      internalID: -6563204451810145047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8122a1e1b47f1964a88ef6a77e91f933
+      internalID: -5337604420938135409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf4ad26bd5a96e4fbe8af6722d1860a
+      internalID: -958076404406162177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bea42ca04edeec4bb449ee2bf63908c
+      internalID: -8899528445586120525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3958e21bc6af64740abcb696ee42805a
+      internalID: -728457461032482633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9414973fd35f240ba29289bbc39fc4
+      internalID: 2931257421309223061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89d4c58fd9ed614ea2b1998b6963218
+      internalID: -7199083280945950912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crappy House Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959f4323e114efd418843131107774a2
+      internalID: 933973441400392347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
